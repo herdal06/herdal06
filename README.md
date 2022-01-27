@@ -14,3 +14,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=herdal06&show_icons=true&theme=synthwave" alt="herdal06 :: Profile Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herdal&langs_count=10&theme=tokyonight&layout=compact" alt="herdal06 :: Top Langs" />
 </p>
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
