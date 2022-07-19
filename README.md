@@ -1,6 +1,6 @@
 ### Hi, Welcome To My Github Profile :wave: :wave: :wave:
 
-- :telescope: I’m currently working on: Android - Java - Web Programming
+- :telescope: I’m currently working on Android Programming
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=herdal06&color=green" alt="herdal06 :: Profile Stats"></a>
