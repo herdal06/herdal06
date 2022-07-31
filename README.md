@@ -2,11 +2,6 @@
 
 - :telescope: I’m currently working on Android Programming
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=herdal06&color=green" alt="herdal06 :: Profile Stats"></a>
-<a href="mailto:h.erdal721@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-h.erdal721@gmail.com-blue?style=flat&logo=gmail%22%3E"</a>
-</p>
-
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
