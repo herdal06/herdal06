@@ -1,6 +1,6 @@
 ### Hi, Welcome To My Github Profile :wave: :wave: :wave:
 
-- :telescope: I’m currently working on Android Programming
+- :telescope: I’m currently working on Android Programming using Kotlin
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
